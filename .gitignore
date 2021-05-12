@@ -2,3 +2,6 @@
 /android
 /build
 /ios
+.dart_tool/
+.metadata
+lib/generated_plugin_registrant.dart
