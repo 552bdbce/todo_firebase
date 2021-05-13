@@ -20,6 +20,9 @@ class TodoScreen extends ConsumerWidget {
     final state = watch(toDoStateNotifierProvider.state);
     TodoItemData itemData;
     return Scaffold(
+      appBar: AppBar(
+        title: Text('ToDo w/firebase'+' ${state.todoItems.length} tasks left'),
+      ),
       body: SafeArea(
         child: Stack(
           children: [

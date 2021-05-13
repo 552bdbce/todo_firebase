@@ -1,4 +1,8 @@
 # This is a generated file; do not edit or check into version control.
+cloud_firestore=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.12.11\\
+firebase_auth=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.14.0+9\\
+firebase_core=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.4.2+2\\
+firebase_storage=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_storage-3.1.6\\
 flutter_keyboard_visibility=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_keyboard_visibility-4.0.6\\
 flutter_keyboard_visibility_web=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_keyboard_visibility_web-1.0.1\\
 flutter_plugin_android_lifecycle=C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-1.0.11\\
