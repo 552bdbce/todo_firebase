@@ -7,3 +7,4 @@
 lib/generated_plugin_registrant.dart
 .packages
 .flutter-plugins-dependencies
+.*
